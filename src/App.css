@@ -1,0 +1,61 @@
+.Toastify__progress-bar {
+  background: rgb(251 191 36) !important;
+}
+
+/* swiper */
+.swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+  margin: 0 8px !important;
+}
+
+.swiper-pagination-bullet {
+  opacity: 1 !important;
+  background: unset !important;
+  border: 1px solid #1f2937 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: #1f2937 !important;
+  transform: scale(1.2);
+}
+
+.swiper-pagination-bullet-active::before {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border-radius: 50%;
+  content: '';
+  width: 16px;
+  height: 16px;
+  border: 1px solid #1f2937;
+  overflow: visible;
+}
+
+.swiper-horizontal>.swiper-pagination-bullets,
+.swiper-pagination-bullets.swiper-pagination-horizontal,
+.swiper-pagination-custom,
+.swiper-pagination-fraction {
+  width: unset !important;
+}
+
+
+
+.lazy-load-image-background.blur.lazy-load-image-loaded {
+  width: 100%;
+  height: 100%;
+  transition: all 0.3s;
+}
+
+.lazy-load-image-background.blur.lazy-load-image-loaded>img {
+  transition: all 0.3s;
+}
+
+.mySwiper2>.swiper-button-prev,
+.mySwiper2>.swiper-button-next {
+  display: none;
+}
+
+.mySwiper2 {
+  z-index: 1;
+}

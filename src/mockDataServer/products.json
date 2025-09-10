@@ -1,0 +1,61 @@
+{
+    {
+            "_id": "65255efe51ff9dfc024f988f",
+            "productName": "Akeru Hoody",
+            "productDescription": "The Akeru Hoody is a unique and limited edition piece made from 100% Organic\nCotton, ensuring both style and sustainability. The production process is\npowered by 100% Wind Energy, aligning with our commitment to eco-conscious\nmanufacturing.\n\nOrigins:\nThe design for the Akeru Hoody was conceived in 2009 during a stay in\nSakinaka, Mumbai. The name \"Akeru\" is derived from \"Sakina,\" which means\n\"blooming greens\" in Japanese. This coincidental connection to Japanese\nculture inspired a creative vision that evolved into the distinctive design of this\nhoody.\n\nLimited Edition:\nWith only 500 units available worldwide, the Akeru Hoody is a collector's item. Of\nthese, 150 are patched with vibrant red accents, 150 feature mustard yellow\npatches, and 200 are in sleek black. Each hoody is individually numbered with a\nunique identifier.\n\nFunctional Features:\n• Hidden Pockets: The Akeru Hoody boasts versatile hidden pockets, including\none with a capacity of up to 30 liters.\n• Special Solar Plexus Pocket: Designed for versatility, this unique pocket is\nstrategically placed on the solar plexus and serves various purposes.\n• Built-in Mask/Scarf: The hoody includes a built-in mask that can also be used\nas a scarf for added convenience.\n• Innovative Drawstring: The drawstring mechanism comes with eyelets and\ncan be neatly tucked away inside the main pocket.\n\nDesigned for Performance:\nThe Akeru Hoody is specifically crafted for cold weather conditions and\nincreased mobility, making it an excellent choice for winter athleisure. Whether\nyou're into sports or simply seeking comfort during the chilly season, this hoody\ncombines functionality and style.\n",
+            "price": "0.0042",
+            "sizeQuantityMapping": [
+                {
+                    "size": "S",
+                    "quantity": 30,
+                    "quantitySold": [
+                        1,
+                        13
+                    ],
+                    "_id": "66713b3dac1bf894c309cd18"
+                },
+                {
+                    "size": "M",
+                    "quantity": 30,
+                    "quantitySold": [
+                        1
+                    ],
+                    "_id": "66713b3dac1bf894c309cd19"
+                },
+                {
+                    "size": "L",
+                    "quantity": 25,
+                    "quantitySold": [
+                        1
+                    ],
+                    "_id": "66713b3dac1bf894c309cd1a"
+                },
+                {
+                    "size": "XL",
+                    "quantity": 20,
+                    "quantitySold": [],
+                    "_id": "66713b3dac1bf894c309cd1b"
+                },
+                {
+                    "size": "XXL",
+                    "quantity": 20,
+                    "quantitySold": [],
+                    "_id": "66713b3dac1bf894c309cd1c"
+                }
+            ],
+            "category": "Hoody",
+            "sku": "NFT-HO-RED",
+            "productDisplayImage": "https://firebasestorage.googleapis.com/v0/b/nft-ecom.appspot.com/o/images%2Frs.png?alt=media&token=ebf1fe58-f0bc-40ac-aed0-8f0e4e43145e",
+            "productDescriptionImage": [
+                "https://firebasestorage.googleapis.com/v0/b/nft-ecom.appspot.com/o/images%2Fr4.png?alt=media&token=57ea568c-4fb6-4759-b522-36d57cf451b6",
+                "https://firebasestorage.googleapis.com/v0/b/nft-ecom.appspot.com/o/images%2Fr1.png?alt=media&token=1e430989-4be0-4d79-9d7a-3ee2521aab82",
+                "https://firebasestorage.googleapis.com/v0/b/nft-ecom.appspot.com/o/images%2Fr3.png?alt=media&token=54ac9d47-729a-4ffa-84bf-979c9f1ea3e7",
+                "https://firebasestorage.googleapis.com/v0/b/nft-ecom.appspot.com/o/images%2Fr2.png?alt=media&token=861dc3d9-1efd-4066-862f-18302b7c6e16"
+            ],
+            "createdAt": "2023-10-10T14:26:06.021Z",
+            "color": "RED",
+            "isDisplayed": true,
+            "__v": 0,
+            "tokenId": 0
+        }
+}
